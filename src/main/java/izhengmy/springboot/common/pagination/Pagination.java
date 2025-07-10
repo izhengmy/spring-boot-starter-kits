@@ -1,4 +1,4 @@
-package izhengmy.springboot.pagination;
+package izhengmy.springboot.common.pagination;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

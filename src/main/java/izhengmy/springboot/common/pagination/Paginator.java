@@ -1,4 +1,4 @@
-package izhengmy.springboot.pagination;
+package izhengmy.springboot.common.pagination;
 
 import com.mybatisflex.core.paginate.Page;
 import lombok.Getter;
