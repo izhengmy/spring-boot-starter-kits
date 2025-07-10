@@ -1,4 +1,4 @@
-package izhengmy.springboot.common.validation;
+package izhengmy.springboot.common.utils;
 
 public interface Request {
 
